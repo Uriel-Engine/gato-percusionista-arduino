@@ -7,7 +7,7 @@
 
 ## 📸 Demo
 
-![Demo](demo.gif)
+![Demo](https://github.com/Uriel-Engine/gato-percusionista-arduino/blob/main/Gato%20Percusionista.png)
 
 ---
 
